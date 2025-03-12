@@ -3,11 +3,6 @@ import { NavLink } from "react-router";
 // import LionComp from "./gams/Lion/Lion.tsx";
 
 function App() {
-  const goGame = (gameName: string)  => {
-
-
-  }
-
   return (
     <div>
       <h1>欢迎来到小游戏世界</h1>
